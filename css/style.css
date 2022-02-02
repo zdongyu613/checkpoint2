@@ -105,12 +105,13 @@ li a{
     padding:10px;
     margin-left: 25px;
     font-size: 28px;
-    width: 150px;
+    width: 170px;
     align-self: center;
 }
 
 .main-text{
     width: inherit;
+    min-height: 700px;
 }
 
 .text-around{
